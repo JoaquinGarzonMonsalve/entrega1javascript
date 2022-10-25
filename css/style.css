@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    color: brown;
+    text-align: center;
+}
