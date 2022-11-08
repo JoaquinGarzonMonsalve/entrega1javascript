@@ -184,6 +184,8 @@ while(usuario==="jose" && i!=3){
 
     }
 
+    // incremento del i en la funciones de ingrese usuario
+
     i++;
 
     
